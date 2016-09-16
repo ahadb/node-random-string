@@ -1,0 +1,25 @@
+{
+  "name": "return-random-string",
+  "version": "0.0.5",
+  "description": "this module returns a random string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "string",
+    "module",
+    "random",
+    "node",
+    "return"
+  ],
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": "Ahad Bokhari <ahadbokhari@gmail.com> (http://ahadb.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
