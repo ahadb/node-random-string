@@ -4,7 +4,7 @@ Simply returns a random string
 
 ##Overview
 
-The module can be used when you need a function that returns a random `string`
+The module can be used when you need a function that returns a random `string`. Default params is a 5 char min.
 
 ##Installing 
 
@@ -22,6 +22,11 @@ const rs = require('return-random-string');
 const x = rs.randomString(); // x contains a random string with length of 5
 
 ```
+
+##TODO
+
+* add options
+* add range
 
 ##Commands
 
