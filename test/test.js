@@ -1,8 +1,8 @@
 'use strict';
 
-var expect = require('chai').expect;
+const expect = require('chai').expect;
 
-var rs = require('../index');
+const rs = require('../index');
 
 
 describe('#randomString', function() {
